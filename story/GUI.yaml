@@ -46,7 +46,7 @@ config:
       x: '70'
       'y': '250'
       sfx: none
-      always-on: true
+      alwaysOn: true
       text:
         x: 32
         'y': 30
